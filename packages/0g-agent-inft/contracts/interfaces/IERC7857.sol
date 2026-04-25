@@ -14,10 +14,10 @@ interface IERC7857 {
         uint256 indexed _tokenId
     );
 
-    /// @notice The event emitted when an address is approved for all
-    /// @param _owner The owner
-    /// @param _operator The operator
-    /// @param _approved The approval
+    /// @notice The event emitted when an address is approved
+    /// @param _owner the owner
+    /// @param _operator the operator
+    /// @param _approved the approval
     event ApprovalForAll(
         address indexed _owner,
         address indexed _operator,
