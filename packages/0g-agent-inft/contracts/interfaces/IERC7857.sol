@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity ^0.8.20;
 
 import {IERC7857DataVerifier, TransferValidityProof} from "./IERC7857DataVerifier.sol";
 import {IERC7857Metadata} from "./IERC7857Metadata.sol";
