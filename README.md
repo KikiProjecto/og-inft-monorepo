@@ -150,7 +150,7 @@ yarn 0g-compute-cli inference get-secret --provider 0xa48f01287233509FD694a22Bf8
 yarn dev
 ```
 
-The service will start on `http://localhost:3001`
+
 
 ### 2.3 Verify Service
 
