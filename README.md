@@ -13,7 +13,7 @@ og-inft-monorepo/
 ```
 
 **Flow:**
-1. User mints an INFT with agent config (name, model, system prompt, etc.)
+1. User mints an INFT with agentconfig (name, model, system prompt, etc.)
 2. Config hash is stored on-chain, actual config is registered with executor service
 3. Authorized users can chat with the INFT via the frontend
 4. Executor service verifies on-chain authorization and runs inference
